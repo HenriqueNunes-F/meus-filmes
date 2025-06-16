@@ -1,9 +1,11 @@
  Tema: Gerenciador de Filmes
+ Alunos : Henrique Nunes Fonseca RGM : 38044757
+ Alunos Renato Colaço Trentin  RGM :  38855461
 
  Resumo do Funcionamento:
 Este sistema permite que o usuário se cadastre, faça login, visualize seus filmes favoritos, adicione novos filmes e faça logout. O sistema utiliza MySQL para armazenar as informações do usuário e filmes.
 
-## Usuário/Senha de Teste:
+ Usuário/Senha de Teste:
 Crie uma conta personalizada para voce Jason !
 no link cadastro novo usuario
 
